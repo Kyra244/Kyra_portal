@@ -18,11 +18,11 @@ Kyra : Portal n'est pas un simple portfolio. C'est une expérience captivante et
 
 ## Pour commencer
 
-Pour vous embarquer dans ce voyage extraordinaire, rendez-vous simplement sur [Kyra : Portal](https://www.kyra-portal.com) et laissez la magie opérer. Préparez-vous à être émerveillé par la fusion de créativité et d'expertise technique qui vous attend.
+Pour vous embarquer dans ce voyage extraordinaire, rendez-vous simplement sur [Kyra : Portal](https://www.kyra_portal.com) et laissez la magie opérer. Préparez-vous à être émerveillé par la fusion de créativité et d'expertise technique qui vous attend.
 
 ## Contactez-moi
 
-Si vous avez des questions, des opportunités de collaboration ou simplement envie de dire bonjour, n'hésitez pas à me contacter à [kyra@portal.com](mailto:kyra@portal.com). Je suis toujours ravi de me connecter avec d'autres développeurs et passionnés.
+Si vous avez des questions, des opportunités de collaboration ou simplement envie de dire bonjour, n'hésitez pas à me contacter à [kyra@2mservices.fr](mailto:kyra@2mservices.fr). Je suis toujours ravi de me connecter avec d'autres développeurs et passionnés.
 
 Embarquons ensemble dans cette aventure extraordinaire !
 
