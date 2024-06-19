@@ -1,5 +1,3 @@
-# Kyra_portal
-portal to show my skills
 # Kyra : Portal
 
 Bienvenue dans Kyra : Portal !
